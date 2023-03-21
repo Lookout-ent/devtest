@@ -33,7 +33,7 @@
 -DconnectorMode=CAC
 -DproxyHost=127.0.0.1
 -Dpdp.skip.location=true
--Ddev.environment=true
+-Ddev.environment=false
 -DbaseTest=true
 -Ddisable.redis.cache=true
 -Ddiscover.unmanaged=true
